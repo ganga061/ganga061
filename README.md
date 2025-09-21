@@ -5,11 +5,9 @@
 
 - 🔭 I’m currently working on **software developer**
 
-- 🌱 I’m currently learning **Web development**
-
 - 🤝 I’m looking for help with **react**
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **skills**
 
 - 📫 How to reach me **ganga.ise.rymec@gmail.com**
 
@@ -18,7 +16,19 @@
 - ⚡ Fun fact **I Think I am Funny , I am a photography**
 # 💻 Tech Stack:
 Language - c ,python, c++<br>Fronted - HTML , CSS , JavaScript , React.js<br>Backend - Node.js , MongoDB<br>Tools - Git , GitHub<br>CS Fundamentals - Data Structures & Algorithms in python, opps
+# 📄 Internships & Certifications :
+Web Development - Corizo
 
+Artificial Intelligence - Corizo
+
+Machine Learning - Corizo
+
+# 📊 Projects :
+E-Commerce website
+
+cardiovascuar (AI)
+
+Spotify Songs Genrating(AI)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/celebrity_adda_59) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/v-gangamma-344022311?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/ganga-061) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ganga.ise.rymec@gmail.com) 
 
