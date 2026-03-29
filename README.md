@@ -15,7 +15,7 @@
 - https://drive.google.com/file/d/1AKOBak2I1GZYDaAjSvUrLkddEd6hSDw0/view?usp=drive_link
 - ⚡ Fun fact **I Think I am Funny , I am a photography**
 # 💻 Tech Stack:
-Language - c ,python, c++<br>Fronted - HTML , CSS , JavaScript , React.js<br>Backend - Node.js , MongoDB<br>Tools - Git , GitHub<br>CS Fundamentals - Data Structures & Algorithms in python, opps
+Language - JAVA <br>Fronted - HTML , CSS , JavaScript , React.js<br>Backend - Node.js , MongoDB<br>Tools - Git , GitHub<br>CS Fundamentals - Data Structures & Algorithms in python, opps
 # 📄 Internships & Certifications :
 Web Development - Corizo
 
