@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **ganga.ise.rymec@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1K2vdPdXlf7XszIv6VR3XOvJUDmNOYZSs/view?usp=drivesdk]
+- 📄 Know about my experiences 
 - https://drive.google.com/file/d/1AKOBak2I1GZYDaAjSvUrLkddEd6hSDw0/view?usp=drive_link
 - ⚡ Fun fact **I Think I am Funny , I am a photography**
 # 💻 Tech Stack:
