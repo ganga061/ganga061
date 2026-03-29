@@ -11,8 +11,8 @@
 
 - 📫 How to reach me **ganga.ise.rymec@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1K2vdPdXlf7XszIv6VR3XOvJUDmNOYZSs/view?usp=drivesdk](https://drive.google.com/file/d/1K2vdPdXlf7XszIv6VR3XOvJUDmNOYZSs/view?usp=drivesdk)
-
+- 📄 Know about my experiences [https://drive.google.com/file/d/1K2vdPdXlf7XszIv6VR3XOvJUDmNOYZSs/view?usp=drivesdk]
+https://drive.google.com/file/d/1D8XSG-6ChCZ9QARF_VRJjsXWj_N8YPfv/view?usp=drive_link
 - ⚡ Fun fact **I Think I am Funny , I am a photography**
 # 💻 Tech Stack:
 Language - c ,python, c++<br>Fronted - HTML , CSS , JavaScript , React.js<br>Backend - Node.js , MongoDB<br>Tools - Git , GitHub<br>CS Fundamentals - Data Structures & Algorithms in python, opps
